@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "key": "Business",
+      "subcategories":[
+        {
+            "key":"Plants",
+            "id":13,
+            "checked": false
+        },
+        {
+            "key":"Animals",
+            "id":14,
+            "checked": false
+        }
+      ],
+      "checked": false
+    },
+    {
+      "id": 2,
+      "key": "Politics",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "key": "Health",
+      "checked": false
+    },
+    {
+      "id": 4,
+      "key": "Technology",
+      "checked": false
+    },
+    {
+      "id": 5,
+      "key": "Sport",
+      "checked": false
+    },
+    {
+      "id": 6,
+      "key": "Art",
+      "checked": false
+    },
+    {
+      "id": 7,
+      "key": "Agriculture",
+      "checked": false
+    },
+    {
+      "id": 8,
+      "key": "Economics",
+      "checked": false
+    },
+    {
+      "id": 9,
+      "key": "Software",
+      "checked": false
+    },
+    {
+      "id": 10,
+      "key": "Hardware",
+      "checked": false
+    },
+    {
+      "id": 11,
+      "key": "Food",
+      "checked": false
+    },
+    {
+      "id": 12,
+      "key": "Entertaiment",
+      "checked": false
+    }
+  ]
+  
